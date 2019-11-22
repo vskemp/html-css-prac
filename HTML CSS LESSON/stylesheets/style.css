@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    color: rgb(225, 0, 255);
+}
+
+/* CSS RULESET */
+.site-title {
+    
+}
+    /* PYTHON ANALOGY */
+    /* 
+    h1 {
+        'color: green
+    }
+    */
+
+h1 {
+    color:rgb(158, 0, 124)
+}
+
+.kirby-bb {
+    background-color: rgb(105, 102, 102);
+    font-size: 25px;
+    color: pink !important;
+
+    /* !important: hard overide!forces the browser to use that despite order*/
+    
+}
+.photo-frame > img {
+    height: 100%;
+}
+
+/* PYTHON ANALOGY
+/* h1[color] = 'cornflowerblue' */
